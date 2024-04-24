@@ -1,0 +1,7 @@
+instalar:
+express (npm install --save express)
+handlebars (npm install handlebars@4.5.3)
+body parser (npm install --save body-parser)
+mongoose (npm install --save mongoose) -- mongoose.connect("mongodb://127.0.0.1/blogapp")
+session(npm install --save express-session)
+flash(npm install --save connect-flash)
